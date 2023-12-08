@@ -34,7 +34,7 @@ def extract_text_from_image(image_url, config=None):
         else:
             # print(f"Unsupported image type: {image_type}")
             return ""
-        # pytesseract.pytesseract.tesseract_cmd = r'C:\Program Files (x86)\Tesseract-OCR\tesseract.exe'
+       
         text = pytesseract.image_to_string(img, config=config)
         return text
 
