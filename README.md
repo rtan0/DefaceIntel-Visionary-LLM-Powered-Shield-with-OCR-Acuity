@@ -1,4 +1,4 @@
-# DefaceIntel-Visionary-LLM-Powered-Shield-with-OCR-Acuity
+# DefaceIntel-Visionary
 
 
 # Description
