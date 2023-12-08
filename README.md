@@ -10,3 +10,4 @@ The purpose of this project is to develop a robust Web Defacement Detection tool
 2. **Generative AI and OCR**
 - A generative AI model such as GPT4 generates a list of new and potential keywords based on news, threat intelligence content it has learned. This proactive approach helps the tool stay one step ahead in detecting hacktivist content.
 -  Keywords Detection: Optical Character Recognition (OCR), this module scans the textual content of a webpage, including text embedded in images, for specific keywords and phrases that are often used by hacktivists.
+<img width="1041" alt="DefaceIntel 2023-12-08 07_57_44" src="https://github.com/rtan0/DefaceIntel-Visionary-LLM-Powered-Shield-with-OCR-Acuity/assets/153265724/d7c5de0b-317b-4e98-883c-64cff519e722">
