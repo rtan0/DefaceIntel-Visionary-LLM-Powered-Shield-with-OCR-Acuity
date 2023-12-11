@@ -33,7 +33,7 @@ def extract_text_from_image(image_url, config=None):
             return text
         else:
             # print(f"Unsupported image type: {image_type}")
-            return "
+            return ""
      
         text = pytesseract.image_to_string(img, config=config)
         return text
